@@ -145,6 +145,10 @@ span i {
 
 /* Media Query */
 @media (max-width: 768px) {
+    body {
+        font-size: small;
+    }
+
     nav ul {
         display: block;
         margin-top: 10px;
